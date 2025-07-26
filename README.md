@@ -19,4 +19,19 @@ git status
 git branch Udit
 git checkout Udit
 
+Step 6: Creating a virtual environment
 
+pip install virtualenv
+python -m venv myenv
+myenv/scripts/activate
+
+Step 7: Install softwares / libraries / tools
+
+pip install -U scikit-learn
+pip install streamlit
+pip install matplotlib
+pip install pandas
+pip install numpy
+
+python -m pip install --upgrade pip
+python -m pip install --upgrade Pillow
