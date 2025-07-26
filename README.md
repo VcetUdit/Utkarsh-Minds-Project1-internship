@@ -35,3 +35,7 @@ pip install numpy
 
 python -m pip install --upgrade pip
 python -m pip install --upgrade Pillow
+
+Step 8: requirements file creation
+
+pip install pipreqs
